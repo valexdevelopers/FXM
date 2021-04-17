@@ -1,2 +1,2 @@
 # FXM
-A crypto trading template
+A crypto trading template website. 
